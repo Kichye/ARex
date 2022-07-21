@@ -1,0 +1,4 @@
+#Wed Jul 20 20:27:22 CDT 2022
+base.0=C\:\\Users\\Juan\\arproy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
